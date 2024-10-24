@@ -1,0 +1,17 @@
+{
+  "name": "03zomato-api-dynamic-main",
+  "version": "0.1.0",
+  "description": "This is my main zomato dynamic api operational developement",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Sanjic Paul",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2",
+    "razorpay": "^2.8.3"
+  }
+}
